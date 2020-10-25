@@ -1041,7 +1041,7 @@ section__subtitle {
 }
 
 #footer .social-links a:hover {
-  background: #0678e3;
+  background:var(--clr-blue);
   color: #fff;
   text-decoration: none;
 }
